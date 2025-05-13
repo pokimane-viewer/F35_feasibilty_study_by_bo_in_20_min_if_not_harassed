@@ -1,5 +1,9 @@
 # Pete I'll fly this "up your ass" once I'm done and could verify; otherwise this propositional logic table fails. Now I'm not sure whether it's posssible to reduce something down to pre-existing CUDA kernels of a propositional logic table only.
 
+![alt text](<Screenshot 2025-05-13 083058.png>)
+
+You may be wrong, and have a tiny inkling something may be possible, but. you do this only. You already have F35s and thus a propositonal truth table is possible.
+
 # I'm 'lying' about getting hacked and also unable to control my own devices now; I was "outsmarted" by this "tactic" EXACTLY
 
 import math
